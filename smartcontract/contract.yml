@@ -1,0 +1,11 @@
+name: main
+sourceurl: http://example.com/
+safemethods: []
+supportedstandards: []
+events:
+    - name: version-control
+      parameters:
+        - name: args
+          type: Array
+permissions:
+    - methods: '*'

@@ -1,0 +1,10 @@
+wallet: "/mnt/c/Users/kudimik/adolf/frostfs-aio/wallets/wallet1.json"
+
+
+password: ""
+rpc_endpoint: "http://localhost:30333"
+rpc_endpoint_ws: "ws://localhost:30333/ws"
+storage_node: "localhost:8080"
+storage_container: "FYdKDNotqP7JTHkCsYGCRhpMBa36wgNBbCqnujBTPZJU"
+contract_hash: "d31fdb34d381d5c535cad35bbc09d0aa4a59ecb0"
+listen_address: ":5555"
